@@ -1,26 +1,19 @@
-## pn-p-react-carousel
+# PnP React Carousel Example
 
-This is where you include your WebPart documentation.
+This is a demo application for the PnP React Carousel using `@pnp/spfx-controls-react` library
 
-### Building the code
+# Read Here Step By Step Implementation of this application
+## 📃[How to use carousel control of PnP in SPFx Webpart ?](https://sharepointcorner.tech/how-to-use-carousel-control-of-pnp-in-spfx-webpart/) 
 
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
 
-This package produces the following:
+## Run on local machine
 
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
+Clone this repository on your machine and execute following commands :
 
-### Build options
+- `npm install`
+- `gulp serve`
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+# Developed and Maintained By
+This demo application is developed by 🌎[SharePointCorner](https://sharepointcorner.tech/) for one of its [article](https://sharepointcorner.tech/how-to-use-carousel-control-of-pnp-in-spfx-webpart/).
+
+📖 Read related blogs at : [SharePointCorner Blogs](https://sharepointcorner.tech/);
